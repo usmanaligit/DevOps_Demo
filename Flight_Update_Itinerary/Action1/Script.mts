@@ -1,4 +1,4 @@
-﻿
+﻿'update itinerary
  @@ hightlight id_;_1180518_;_script infofile_;_ZIP::ssf35.xml_;_
 WpfWindow("OpenText MyFlight Sample_2").WpfButton("NEW SEARCH").Click @@ hightlight id_;_1942331600_;_script infofile_;_ZIP::ssf37.xml_;_
 WpfWindow("OpenText MyFlight Sample_2").WpfTabStrip("WpfTabStrip").Select "SEARCH ORDER" @@ hightlight id_;_1942332368_;_script infofile_;_ZIP::ssf38.xml_;_
