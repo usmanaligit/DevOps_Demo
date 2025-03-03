@@ -35,9 +35,11 @@ ProductName=OpenText UFT One
 Version=24.2
 
 [TulipAddins]
+ActiveX=
 AF=
 AI=
 Database=
+DevExpress=
 File Content=
 Insight=
 Windows Applications=
