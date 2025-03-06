@@ -2,8 +2,11 @@
 
 'output 
 
+wait(3)
+'WpfWindow("OpenText MyFlight Sample").Output CheckPoint("OpenText MyFlight Sample Application") @@ hightlight id_;_918364_;_script infofile_;_ZIP::ssf1.xml_;_
 
-WpfWindow("OpenText MyFlight Sample").Output CheckPoint("OpenText MyFlight Sample Application") @@ hightlight id_;_918364_;_script infofile_;_ZIP::ssf1.xml_;_
+
+WpfWindow("OpenText MyFlight Sample").Output CheckPoint("OpenText MyFlight Sample Application_2") @@ hightlight id_;_131970_;_script infofile_;_ZIP::ssf10.xml_;_
 
 
 WpfWindow("OpenText MyFlight Sample").WpfButton("NEW SEARCH").Click @@ hightlight id_;_2008586520_;_script infofile_;_ZIP::ssf2.xml_;_
